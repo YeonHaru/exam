@@ -1,0 +1,13 @@
+#red {
+    background-color: red;
+    width: 5rem;
+    height: 5rem;
+    float: left;
+}
+
+#yellow {
+    background-color: yellow;
+    width: 5rem;
+    height: 5rem;
+    float: right;
+}
